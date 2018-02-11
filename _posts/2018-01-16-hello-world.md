@@ -3,6 +3,7 @@ layout: post
 title: Hello World
 excerpt_separator:  <!--more-->
 comments: false
+tags: ['tech-exploration', 'jekyll']
 ---
 
 I decided to create a static blog where I hopefully might document some of my
