@@ -3,7 +3,7 @@ layout: post
 title: Activation Functions
 excerpt_separator:  <!--more-->
 comments: false
-tags: ['deep learning']
+tags: ['deep learning', 'course-notes']
 ---
 
 Just some notes for myself going through the [Deep Learning](https://www.deeplearning.ai/) specialisation on Coursera.

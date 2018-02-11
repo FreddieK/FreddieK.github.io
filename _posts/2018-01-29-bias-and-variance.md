@@ -3,7 +3,7 @@ layout: post
 title: Bias and Variance
 excerpt_separator:  <!--more-->
 comments: false
-tags: ['deep learning']
+tags: ['deep learning', 'course-notes']
 ---
 
 ## Terminology
