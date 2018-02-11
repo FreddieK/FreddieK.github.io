@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Freddie Karlbom
-tagline:          'A Jekyll theme'
+tagline:          'Random Tech Ramblings'
 description:      'Random Tech Ramblings'
 url:              https://fongandrew.github.io/hydeout
 baseurl:          # the optional subpath of your site, e.g. "/blog"
