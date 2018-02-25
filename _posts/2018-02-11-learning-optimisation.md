@@ -98,7 +98,7 @@ $$\alpha = \frac{1}{1+decayRate*epochNum} \alpha_0$$
 
 $$\alpha = 0.95^{epochNum} \alpha_0$$
 
-$$\alpha = \frac{k}{sqrt(epochNum)} \alpha_0$$
+$$\alpha = \frac{k}{\sqrt{epochNum}} \alpha_0$$
 
 $$\alpha = \frac{k}{\sqrt{t}} \alpha_0$$
 
