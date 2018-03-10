@@ -2,7 +2,7 @@
 layout: post
 title: Hello World
 excerpt_separator:  <!--more-->
-comments: false
+comments: true
 tags: ['tech-exploration', 'jekyll']
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Course Notes - ML Strategy Week 1
 excerpt_separator:  <!--more-->
-comments: false
+comments: true
 tags: ['deep learning', 'course-notes']
 ---
 

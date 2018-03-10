@@ -2,7 +2,7 @@
 layout: post
 title: Bias and Variance
 excerpt_separator:  <!--more-->
-comments: false
+comments: true
 tags: ['deep learning', 'course-notes']
 ---
 

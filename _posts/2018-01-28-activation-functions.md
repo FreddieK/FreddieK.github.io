@@ -2,7 +2,7 @@
 layout: post
 title: Activation Functions
 excerpt_separator:  <!--more-->
-comments: false
+comments: true
 tags: ['deep learning', 'course-notes']
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Learning Optimisation
 excerpt_separator:  <!--more-->
-comments: false
+comments: true
 tags: ['deep learning', 'course-notes']
 ---
 

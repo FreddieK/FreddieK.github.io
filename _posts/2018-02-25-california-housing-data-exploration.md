@@ -2,7 +2,7 @@
 layout: post
 title: California Housing - Data Exploration
 excerpt_separator:  <!--more-->
-comments: false
+comments: true
 tags: ['data-exploration', 'jekyll', 'jupyter-notebooks']
 ---
 Taking a lot of inspiration from [this](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python) Kaggle kernel by Pedro Marcelino, I will go through roughly the same steps using the classic California Housing price dataset in order to practice using Seaborn and doing data exploration in Python.
