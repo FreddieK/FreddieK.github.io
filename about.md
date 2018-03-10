@@ -12,14 +12,15 @@ After working in full stack web development for the first years after college an
 ## The Blog
 As I'm usually either taking some online classes, working on some projects of my own and/or deciding to spend a few hours to try out something new - I might as well document it.
 
-Quite telling, the whole blog [started](/2018/01/16/hello-world.html) out as just one of those one-day projects where I wanted to compare some different static site generators and test putting the result up as a Github page.
+Quite telling, the whole blog [started out](/2018/01/16/hello-world.html) as just one of those one-day projects where I wanted to compare some different static site generators and test putting the result up as a Github page.
 
 Keeping the blog is for now mainly a way to motivate me to reach a point with a concrete outcome that I can do a writeup about.
 
 In other words; nothing written here is really intended for an audience besides myself, but if there is anything that you find helpful then that is of course great.
 
+<br/>
 ## Contact me
-You can e-mail me at freddiekarlbom {at} gmail {dot} com or connect on [LinkedIn](https://www.linkedin.com/in/freddiekarlbom).
+You can e-mail me at freddiekarlbom {at} gmail {dot} com or [connect on LinkedIn](https://www.linkedin.com/in/freddiekarlbom).
 
 <br/>
 ![My name is Freddie](assets/images/freddie_dont_call_me_frederic.jpg)
