@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Freddie Karlbom
 tagline:          'Random Tech Ramblings'
 description:      'Random Tech Ramblings'
-url:              https://fongandrew.github.io/hydeout
+url:              https://github.com/FreddieK
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -20,6 +20,10 @@ author:
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
+
+site:
+  disqus:
+    shortname: random-tech-ramblings
 
 plugins:
   - jekyll-feed
