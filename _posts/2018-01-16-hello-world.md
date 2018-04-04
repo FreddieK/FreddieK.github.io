@@ -10,7 +10,7 @@ I decided to create a static blog where I hopefully might document some of my
 various escapades in programming etc.
 
 After testing [Pelican](https://blog.getpelican.com/) and struggling for a bit,
-I fell back on [Jekyll](jekyllrb.com) which, though I'd preferred to work in
+I fell back on [Jekyll](https://jekyllrb.com) which, though I'd preferred to work in
 Python over Ruby, feels much more mature and is a breeze to work with.
 
 Using the wonderfully beautiful and simple Hyde theme, here in the more modern
