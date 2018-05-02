@@ -5,7 +5,7 @@ excerpt_separator:  <!--more-->
 comments: true
 tags: ['Recommender Systems', 'Paper Review']
 ---
-Main takeaways from the papers [Item Based Collaborative Filtering](https://pdfs.semanticscholar.org/0f06/d328f6deb44e5e67408e0c16a8c7356330d1.pdf) about recommendations at Amazon and [Deep Neural Networks for YouTube recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf), plus a bunch of insightful quotes included below.
+Main takeaways from the papers [Two Decades of Recommender Systems at Amazon.com](https://pdfs.semanticscholar.org/0f06/d328f6deb44e5e67408e0c16a8c7356330d1.pdf) and [Deep Neural Networks for YouTube recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf), plus a bunch of insightful quotes included below.
 
 - Recommender systems usually involves a surrogate problem, where you take interest signals and transfer them to a new context. It thus becomes important to have good evaluation metrics to avoid overfitting the model on the surrogate problem rather than what you actually want to optimise.
 - There are complex relations between human behaviour, objects and objects internal relations. User intent, product features (frequently/seldom bought items, expensive vs. cheap => window shopping etc.) and objects with built-in sequential consumption (series) changes behaviors radically.
