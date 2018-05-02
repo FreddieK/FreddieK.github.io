@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper review - Recommendations at Amazon and Youtube
+title: Recommendations at Amazon and Youtube
 excerpt_separator:  <!--more-->
 comments: true
 tags: ['Recommender Systems', 'Paper Review']
