@@ -66,5 +66,5 @@ Web interface with affinity checker to see customer recommendations and what the
 ## Takeaways
 - Geographically widespread stores with non standard products might not be a good fit for collaborative filtering methods due to extreme sparsity of data, and purchase patterns very geographically based.
 - The non-standard nature of the products also means that looking at the metadata features might tell you much more as you will have much less sparsity in data on that level.
-- When implementing recommendations, there's a risk of getting a positive feedback loop, where the most highly rated items always ends up on top and thus (since people usually choose the top items) end up becoming more popular, and thus cement its position in the top.
+- When implementing recommendations, there's a risk of getting a positive feedback loop, where the most highly rated items always ends up on top and thus (since people usually choose the top items) end up becoming more popular - cementing its position in the top.
 - Finding a good way to estimate quality is both key and a really hard problem. Engineered features such as repeat purchases and metadata information such as ingredients might contain useful information missed by popularity and ratings.
