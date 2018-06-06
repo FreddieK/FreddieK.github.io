@@ -37,8 +37,7 @@ Doing this work ensures the team gets a _shared mental model_, which is deeply v
 ## Serverless Predictions at Scale - Thomas Reske
 Blueprints for Serverless Predictions using MXNet.
 
-* API Gateway -> Lambda function -> S3 (Model Archive)
- * [Serverless predictions at Scale](https://aws.amazon.com/blogs/compute/seamlessly-scale-predictions-with-aws-lambda-and-mxnet/)
+* API Gateway -> Lambda function -> S3 (See [Serverless predictions at Scale](https://aws.amazon.com/blogs/compute/seamlessly-scale-predictions-with-aws-lambda-and-mxnet/))
 * ELB + Fargate (Model Server for Apache MXNet -> Docker)
 * SageMaker (Docker)
 
