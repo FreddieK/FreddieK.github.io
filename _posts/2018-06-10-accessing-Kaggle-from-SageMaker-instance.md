@@ -7,7 +7,7 @@ tags: ['tech-exploration', 'Kaggle', 'SageMaker']
 ---
 - Generate API key in Kaggle UI and upload to your root folder via web interface.
 - Agree to competition in Kaggle UI if you haven't already.
-- Start a notebook. Execute following commands in a notebook cell;
+- Start a notebook. Execute following commands in a notebook cell replacing the competition name with the competition you are interested in;
 
 ```python
 %%bash
