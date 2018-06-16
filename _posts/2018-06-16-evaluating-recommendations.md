@@ -3,7 +3,7 @@ layout: post
 title: Evaluation Recommendations
 excerpt_separator:  <!--more-->
 comments: true
-tags: ['Paper review', 'Recommender Systems']
+tags: ['Paper Review', 'Recommender Systems']
 ---
 
 Putting some thoughts down in words of trying to wrap my head around how to measure if a recommendation is good or bad, and how to formulate the problem in a way so that models can be trained.
