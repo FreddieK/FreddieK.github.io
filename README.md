@@ -5,3 +5,5 @@ to how up to date it will be.
 ## Tech
 Built with Jekyll using the [Hydeout](https://github.com/fongandrew/hydeout)
 incarnation of the Hyde theme.
+
+- Still alive
