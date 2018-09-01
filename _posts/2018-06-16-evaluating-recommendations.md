@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Evaluation Recommendations
+title: Evaluating Recommendations
 excerpt_separator:  <!--more-->
 comments: true
 tags: ['Paper Review', 'Recommender Systems']
