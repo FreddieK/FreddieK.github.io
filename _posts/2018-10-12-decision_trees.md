@@ -29,9 +29,7 @@ $$Entropy(S) = \sum_{i=1}^c{-p_i\log_2{p_i}}$$
 
 $$Gain(S,A) = Entropy(S) - \sum_{v \in Values(A)}{\frac{|S_v|}{|S|}Entropy(S_v)}$$
 
-Where $Values(A)$ is the set of possible values for the
-attribute $A$ and $S_v$ is the subset of $S$ for which attribute
-$A$ has value $v$.
+Where $$Values(A)$$ is the set of possible values for the attribute $$A$$ and $$S_v$$ is the subset of $$S$$ for which attribute $$A$$ has value $$v$$.
 
 Information Gain is the expected reduction in entropy caused by knowing the value of attribute A. The attribute which will mean the largest information gain will be chosen for the split.
 
@@ -45,10 +43,10 @@ $$SplitInfo(S,A) = -\sum_{i=1}^c{\frac{|S_i|}{|S|}\log_2{\frac{|S_i|}{|S|}}}$$
 This can explode (or become undefined) if $S≈S_i$, in order to avoid this you can calculate the gain ratio only on attributes with higher than average gain.
 
 ### Handling continuous predictors
-Dynamically create factor variables $A_c$ that is true if $A < c$.
+Dynamically create factor variables $$A_c$$ that is true if $$A < c$$.
 
-1. Identify adjacent examples of $A$ with differing target values (if the target is the same, the break point won't make any sense).
-2. Generate $c$ suggestion as the mean between the adjacent rows.
+1. Identify adjacent examples of $$A$$ with differing target values (if the target is the same, the break point won't make any sense).
+2. Generate $$c$$ suggestion as the mean between the adjacent rows.
 3. Repeat for all examples until you have a list of candidate breakpoints.
 4. Identify which candidate suggestion that maximises information gain (and compare that to other attributes).
 
@@ -58,7 +56,7 @@ Since the Gradient Boosting algorithm uses additive forward expansion to build a
 Thus, we need regression trees that predicts a continuous value and not a class.
 
 ### Splitting points
-Instead of information gain, we can compare the squared error in the generated sets based on different splits and choose the split that minimises the error. $\hat{y}$ in each leaf is the mean of the rows in that branch.
+Instead of information gain, we can compare the squared error in the generated sets based on different splits and choose the split that minimises the error. $$\hat{y}$$ in each leaf is the mean of the rows in that branch.
 
 Using MSE (CART standard):
 
