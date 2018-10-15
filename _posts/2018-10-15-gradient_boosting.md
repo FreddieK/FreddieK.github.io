@@ -5,7 +5,7 @@ excerpt_separator:  <!--more-->
 comments: true
 tags: ['Algorithms', 'Python', 'GBM']
 ---
-The workhorse of modern machine learning. After falling down the rabbit hole of understanding the construction of regressiontree (and creating my own implementation), I am now ready to plug it into a [gradient boosting machine](https://en.wikipedia.org/wiki/Gradient_boosting).
+The workhorse of modern machine learning. After falling down the rabbit hole of understanding the construction of regression trees (and creating my own implementation), I am now ready to plug it into a [gradient boosting machine](https://en.wikipedia.org/wiki/Gradient_boosting).
 
 Below, my notes on the algorithm, but first some links to material that does a much better job of explaining it [here](http://explained.ai/gradient-boosting/index.html) and [here](http://www.chengli.io/tutorials/gradient_boosting.pdf).
 
