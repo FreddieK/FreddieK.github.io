@@ -327,7 +327,7 @@ sns.lineplot(data=plot_data)
 
 
 
-![png](../assets/images/random_forest_files/random_forest_7_1.png)
+![png](/assets/images/random_forest_files/random_forest_7_1.png)
 
 
 ## Takeaways
