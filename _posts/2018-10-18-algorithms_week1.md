@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Algorithms: Design and Analysis - Week 1
+title: Algorithms - Design and Analysis - Week 1
 excerpt_separator:  <!--more-->
 comments: true
 tags: ['Algorithms', 'Python', 'Stanford']
 ---
-
 Going through the self paced course [Algorithms: Design and Analysis](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/info), given by Stanford.
 
 The first week included a course introduction, Big-O notation and a programming assignment including the implementation of the MergeSort algorithm (my code can be found [here](https://github.com/FreddieK/algorithms-in-python)).
