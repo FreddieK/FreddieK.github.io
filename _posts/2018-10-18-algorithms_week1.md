@@ -77,7 +77,7 @@ $$\Omega({n})$$ - Lowerbound for large n
 
 $$\Theta({n})$$ - Both above criteria are met
 
-$$\o(n)$$ - Upperbound for large n for all constants c so that $$T(n) < c*f(n)$$
+$$o(n)$$ - Upperbound for large n for all constants c so that $$T(n) < c*f(n)$$
 
 ## Divid and Conquer Algorithms
 1. Divide into smaller subproblems
