@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Algorithms - Design and Analysis - Week 1
+title: Algorithms 1 - Week 1 - Introduction and MergeSort
 excerpt_separator:  <!--more-->
 comments: true
 tags: ['Algorithms', 'Python', 'Stanford']
