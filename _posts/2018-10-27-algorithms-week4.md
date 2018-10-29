@@ -6,17 +6,18 @@ comments: true
 tags: ['Algorithms', 'Python', 'Stanford']
 ---
 
-## Generic Graph Search
-Goals:
+**Goals:**
 1. Find everything findable from a given start vertex
 2. Don't explore anything twice
 
-## Generic Algorithm
+### Generic Algorithm
 Given graph G, vertex s.
-- Initially s explored, all other vertices unexplored
-- while possible:
+- Mark Initial s explored, all other vertices unexplored
+- While possible:
   - Choose an edge (u, v) with u explored and v unexplored
   - mark v explored
+
+<!--more-->
 
 The strategy for choosing which edge to explore next is depending on the problem.
 
