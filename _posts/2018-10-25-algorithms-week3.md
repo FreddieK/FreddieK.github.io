@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Algorithms 1 - Week 3
+title: Algorithms 1 - Week 3 - Random Contraction Algorithm
 excerpt_separator:  <!--more-->
 comments: true
 tags: ['Algorithms', 'Python', 'Stanford']
