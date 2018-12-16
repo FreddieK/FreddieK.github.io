@@ -11,6 +11,8 @@ tags: ['Algorithms', 'Python', 'Stanford']
 - Can quickly solve larger subproblems recursively given the solutions to the smaller problems
 - After solving all subproblems, can compute the final solution
 
+<!--more-->
+
 ## The Knapsack Problem
 Given a set of items with a certain size and value, and a 'sack' with a max capacity, what is the optimal partitioning of items to utilise the capacity as well as possible?
 
