@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Algorithms 2 - Week 2 - Dynamic Programming
+title: Algorithms 2 - Week 3 - Dynamic Programming
 excerpt_separator:  <!--more-->
 comments: true
 tags: ['Algorithms', 'Python', 'Stanford']
