@@ -32,4 +32,4 @@ Though, in order for the final sigmoid to make sense (as there are no weights to
 Besides Wide & Deep, comparisons are made with FNN and PNN architectures, and a comparison table for the benefits of DeepFM.
 
 ## 3-5. Experiments, Related Work, Conclusions
-> Our experiment re-sults demonstrate that 1) DeepFM outperforms the state-of-the-art models in terms of AUC and Logloss on both datasets;2) The efficiency of DeepFM is comparable to the most effi-cient deep model in the state-of-the-art.
+> Our experiment results demonstrate that 1) DeepFM outperforms the state-of-the-art models in terms of AUC and Logloss on both datasets; 2) The efficiency of DeepFM is comparable to the most efficient deep model in the state-of-the-art.
